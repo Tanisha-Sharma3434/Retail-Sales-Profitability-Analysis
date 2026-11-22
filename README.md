@@ -48,3 +48,13 @@ Download the file and open it using Microsoft Power BI Desktop to explore the in
 This project demonstrates how Power BI can be used to transform retail sales data into interactive visual reports and meaningful business insights.
 
 **Created as part of my Data Analytics learning journey.**
+## Dashboard Screenshots
+
+### 1. Overview Dashboard
+![Overview Dashboard](dashboard1.png)
+
+### 2. Sales Analysis Dashboard
+![Sales Analysis](dashboard2.png)
+
+### 3. Product Analysis Dashboard
+![Product Analysis](dashboard3.png)
